@@ -1,0 +1,52 @@
+.hero{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+.logo{
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(10, 222, 222);
+    padding-bottom: 200px;
+    padding-top: 10px;
+
+ 
+}
+
+.ul {
+    list-style-type: none;
+    display: inline;
+    padding: 10px 20px;
+    color: rgb(78, 26, 201);
+ 
+    font-weight: bold;
+   
+}
+.ul a{
+    text-decoration: none;
+    margin-right: 20px;
+    
+   
+}
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+   
+
